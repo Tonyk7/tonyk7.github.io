@@ -1,0 +1,11 @@
+Origin: Tonyk7's Repo
+Label: Tonyk7
+Suite: stable
+Version: 1.0
+Codename: Tonyk7
+Architecture: iphoneos-arm
+Components: main
+Description: Tonyk7's Tweaks
+md5sum:
+ 9f4d4f2d49ccac51bf071f8b1a03034f 731 Packages
+ 708a4a2a81abc9994707ec0a42fe002d 444 Packages.bz2

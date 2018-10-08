@@ -1,0 +1,28 @@
+Package: com.tonyk7.appascarrier
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.appascarrier_0.0.1_iphoneos-arm.deb
+Size: 2894
+MD5sum: 154d9c325b4f5e0f16f407b0f53f7931
+Section: Tweaks
+Description: Set current running app as carrier. (iOS 8 - 11.1.2)
+Author: Tony
+Name: AppAsCarrier
+
+Package: com.tonyk7.doubledown
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.doubledown_0.0.1_iphoneos-arm.deb
+Size: 6872
+MD5sum: 00876de63681a98d2dd1bd3b8b8cbdba
+Section: Tweaks
+Description: Add a second row to the dock. Supports iOS 7 - 11.1.2.
+Author: Tony
+Name: DoubleDown
+
