@@ -5,24 +5,71 @@ Maintainer: Tony
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.tonyk7.appascarrier_0.0.1_iphoneos-arm.deb
-Size: 2894
-MD5sum: 154d9c325b4f5e0f16f407b0f53f7931
+Size: 2954
+MD5sum: 61d013695b42e7e7350145b6ae0bfffd
 Section: Tweaks
 Description: Set current running app as carrier. (iOS 8 - 11.1.2)
 Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.appascarrier
 Name: AppAsCarrier
+
+Package: com.tonyk7.backgroundkill
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.backgroundkill_0.0.1_iphoneos-arm.deb
+Size: 18680
+MD5sum: d1095bc9259c85071d377fe83a4da5f9
+Section: Tweaks
+Description: Kill chosen apps from background on exit. Supports iOS 11
+Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.backgroundkill
+Name: BackgroundKill
 
 Package: com.tonyk7.doubledown
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Tony
-Installed-Size: 264
+Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.tonyk7.doubledown_0.0.1_iphoneos-arm.deb
-Size: 6872
-MD5sum: 00876de63681a98d2dd1bd3b8b8cbdba
+Size: 4738
+MD5sum: 26cc4c2d85d77f3e1286fa110e52205b
 Section: Tweaks
 Description: Add a second row to the dock. Supports iOS 7 - 11.1.2.
 Author: Tony
+Depiction: http://tonyk7.github.io/description.html?id=com.tonyk7.doubledown
 Name: DoubleDown
+
+Package: com.tonyk7.shadowed
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.shadowed_0.0.1_iphoneos-arm.deb
+Size: 15870
+MD5sum: edd4af97281e093d1ea1445dcf0d14ba
+Section: Tweaks
+Description: Hide selected apps in app switcher. Supports iOS 11.X
+Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.shadowed
+Name: Shadowed
+
+Package: com.tonyk7.snapkill
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.snapkill_0.0.1_iphoneos-arm.deb
+Size: 3304
+MD5sum: a4b0de7851ab72a01daad045a053e6fa
+Section: Tweaks
+Description: On exit of snapchat, kill background instance and applecamerad daemon for iOS 11
+Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.snapkill
+Name: SnapKill
 

@@ -36,7 +36,7 @@ def generate_tweak_info(important_tweak_list):
 		"desc_short": important_tweak_list[10],
 		"compatitle": "iOS %s" % supported_version_from_desc(important_tweak_list[10]),
 		"changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
-		"screenshot": "null"
+		"open": True
 	}
 	return tweak_info
 
