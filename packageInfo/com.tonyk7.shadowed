@@ -1,0 +1,7 @@
+{
+    "name": "Shadowed",
+    "desc_short": "Hide selected apps in app switcher. Supports iOS 11.X",
+    "compatitle": "iOS 11",
+    "changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+    "open": true
+}

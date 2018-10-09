@@ -1,0 +1,7 @@
+{
+    "name": "BackgroundKill",
+    "desc_short": "Kill chosen apps from background on exit. Supports iOS 11",
+    "compatitle": "iOS 11",
+    "changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+    "open": true
+}

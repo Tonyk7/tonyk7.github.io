@@ -1,0 +1,7 @@
+{
+    "name": "DoubleDown",
+    "desc_short": "Add a second row to the dock. Supports iOS 7 - 11.1.2.",
+    "compatitle": "iOS 7 - 11.1.2",
+    "changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+    "open": true
+}

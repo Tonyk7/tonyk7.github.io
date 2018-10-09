@@ -1,0 +1,7 @@
+{
+    "name": "AppAsCarrier",
+    "desc_short": "Set current running app as carrier. (iOS 8 - 11.1.2)",
+    "compatitle": "iOS 8 - 11.1.2",
+    "changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+    "open": true
+}
