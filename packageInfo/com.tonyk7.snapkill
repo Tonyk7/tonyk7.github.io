@@ -1,7 +1,0 @@
-{
-    "name": "https://tonyk7.github.io/description.html?id=com.tonyk7.snapkill",
-    "desc_short": "On exit of snapchat, kill background instance and applecamerad daemon for iOS 11",
-    "compatitle": "iOS 11",
-    "changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
-    "open": true
-}
