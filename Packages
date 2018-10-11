@@ -20,8 +20,8 @@ Maintainer: Tony
 Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./debs/com.tonyk7.backgroundkill_0.0.1_iphoneos-arm.deb
-Size: 18680
-MD5sum: d1095bc9259c85071d377fe83a4da5f9
+Size: 18712
+MD5sum: 894382d93f89044edb1b9178169dce32
 Section: Tweaks
 Description: Kill chosen apps from background on exit. Supports iOS 11
 Author: Tony
@@ -50,8 +50,8 @@ Maintainer: Tony
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.tonyk7.shadowed_0.0.1_iphoneos-arm.deb
-Size: 15870
-MD5sum: edd4af97281e093d1ea1445dcf0d14ba
+Size: 15866
+MD5sum: c6f1f58d41c7a9ebf49940b6a7254064
 Section: Tweaks
 Description: Hide selected apps in app switcher. Supports iOS 11.X
 Author: Tony
