@@ -1,0 +1,7 @@
+{
+    "name": "0vigilate",
+    "desc_short": "A patch to run palert on iOS 11 devices.",
+    "compatitle": "iOS 11",
+    "changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+    "open": true
+}

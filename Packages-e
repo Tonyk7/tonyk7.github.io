@@ -1,3 +1,20 @@
+Package: com.tonyk7.0vigilate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tonyk7
+Installed-Size: 72
+Depends: mobilesubstrate, org.thebigboss.palert
+Filename: ./debs/com.tonyk7.0vigilate_0.0.1_iphoneos-arm.deb
+Size: 2244
+MD5sum: 2579249b1eec0ae4b7aa54a497d6eb2c
+SHA1: df6d8e733e755c23e3f19a8ab89decbb5d90a80d
+SHA256: 89187845c39db2e451910a689e0ced0ae8ee015cd41974a468ca459166b3638f
+Section: Tweaks
+Description: A patch to run palert on iOS 11 devices.
+Author: Tonyk7
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.0vigilate
+Name: 0vigilate
+
 Package: com.tonyk7.appascarrier
 Version: 0.0.1
 Architecture: iphoneos-arm
