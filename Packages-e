@@ -67,16 +67,16 @@ Depiction: http://tonyk7.github.io/description.html?id=com.tonyk7.doubledown
 Name: DoubleDown
 
 Package: com.tonyk7.mgspoof
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Tony
-Installed-Size: 168
+Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debs/com.tonyk7.mgspoof_0.0.1_iphoneos-arm.deb
-Size: 19664
-MD5sum: acde3891daff13804a807c87753b1759
-SHA1: 3413e89a6aa95ea8b6ef50e0c16591e432f0582d
-SHA256: b48d47948ae323f2d9abfd24729c0d4196cf440ec7074c5c7dae159920ec7520
+Filename: ./debs/com.tonyk7.mgspoof_0.0.2_iphoneos-arm.deb
+Size: 20336
+MD5sum: 56d8a44d1da1f4721bae01b4fb360fc3
+SHA1: e1cee1156fb838c6df5d8e987388e86c6d187786
+SHA256: 50878cc7389d2954019909b7d4a45ff6a0b56e3d9dac82e4d06dc7467fb03d65
 Section: Tweaks
 Description: Tool that can be used to spoof MGCopyAnswer's result. (iOS 9 - 12.1.2)
 Author: Tony
