@@ -65,8 +65,8 @@ Maintainer: Tony
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debs/com.tonyk7.mgspoof_0.0.2_iphoneos-arm.deb
-Size: 20336
-MD5sum: 56d8a44d1da1f4721bae01b4fb360fc3
+Size: 20378
+MD5sum: 2bb51b025f2c570ccc04e990b5725014
 Section: Tweaks
 Description: Tool that can be used to spoof MGCopyAnswer's result. (iOS 9 - 12.1.2)
 Author: Tony
