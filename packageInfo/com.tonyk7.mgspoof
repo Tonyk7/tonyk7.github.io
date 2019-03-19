@@ -2,9 +2,6 @@
     "name": "MGSpoof",
     "desc_short": "Tool that can be used to spoof MGCopyAnswer's result. (iOS 9 - 12.1.2)",
     "compatitle": "iOS 9 - 12.1.2",
-    "changelog": "<strong>0.2</strong><br>+ added randomize value button
-    + fixed names of sections for key page
-    + fixed “Reset Prefs” button to actually reset prefs
-    + other small fixes/improvements<br>",
+    "changelog": "<strong>0.2</strong><br>+ added randomize value button<br><br>+ fixed names of sections for key page</br><br>+ fixed “Reset Prefs” button to actually reset prefs</br><br>+ other small fixes/improvements</br>",
     "open": true
 }
