@@ -70,13 +70,13 @@ Package: com.tonyk7.mgspoof
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Tony
-Installed-Size: 184
+Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.tonyk7.mgspoof_0.0.2_iphoneos-arm.deb
-Size: 20378
-MD5sum: 2bb51b025f2c570ccc04e990b5725014
-SHA1: e0bcb4b1796bd6b2d44d87bac07b4f98a67a32bb
-SHA256: 581d426284b21e93dabfda23bf6b69afcb052bde9f4837e0bdb2994661c5e07a
+Size: 19516
+MD5sum: ba8be0a80bf49f0cfc9962f46300b729
+SHA1: c8ba50338b0e9929397a232747423d7ef7124ee6
+SHA256: 9fe232133731df5eec4dd79bebd8d9f2de43af691a537f20f325e5393c9931c4
 Section: Tweaks
 Description: Tool that can be used to spoof MGCopyAnswer's result. (iOS 9 - 12.1.2)
 Author: Tony

@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Tonyk7's Tweaks
 md5sum:
- 3d0955dd998591d05609d508a7270951 3140 Packages
- b5995b1fa561251a55700fecced547f9 1026 Packages.bz2
+ 4ad20052fe9ca35867cb9589f8481e2c 3140 Packages
+ 06e3f703b7b296cb75116a4685b3dab1 1020 Packages.bz2
