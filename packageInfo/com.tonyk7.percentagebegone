@@ -1,0 +1,7 @@
+{
+    "name": "PercentageBeGone",
+    "desc_short": "Hide percentage symbol in status bar. (iOS 4 - 12.X) (not a12)",
+    "compatitle": "iOS 4 - 12.X) (not a12",
+    "changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+    "open": true
+}

@@ -80,10 +80,10 @@ Maintainer: Tony
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.tonyk7.percentagebegone_0.0.1_iphoneos-arm.deb
-Size: 2588
-MD5sum: 6c06407b1a996c67e5b9c4edbf468674
+Size: 2618
+MD5sum: d4a69a415142cb5011ad261841a994a3
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Hide percentage symbol in status bar. (iOS 4 - 12.X) (not a12)
 Author: Tony
 Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.percentagebegone
 Name: PercentageBeGone
