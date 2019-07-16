@@ -83,6 +83,23 @@ Author: Tony
 Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.mgspoof
 Name: MGSpoof
 
+Package: com.tonyk7.percentagebegone
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.percentagebegone_0.0.1_iphoneos-arm.deb
+Size: 2588
+MD5sum: 6c06407b1a996c67e5b9c4edbf468674
+SHA1: fafaaa1b64cbfb4cf80d25f2a17d7df625b14e13
+SHA256: 0ba0a63d4c3a2969e6a1bb2e72c4ec769c44eb2a381206a57b23bed51b09226e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.percentagebegone
+Name: PercentageBeGone
+
 Package: com.tonyk7.shadowed
 Version: 0.0.1
 Architecture: iphoneos-arm
