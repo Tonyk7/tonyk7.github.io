@@ -62,11 +62,11 @@ Package: com.tonyk7.dscoparty
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Tony
-Installed-Size: 56
+Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.tonyk7.dscoparty_0.0.1_iphoneos-arm.deb
-Size: 1462
-MD5sum: 97aa141400a53f17add42128b1767269
+Size: 4746
+MD5sum: 5a3e9a3051ff23c00952c80725fbe191
 Section: Tweaks
 Description: Upload to dsco from camera roll
 Author: Tony
