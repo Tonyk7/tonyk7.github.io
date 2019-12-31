@@ -1,0 +1,149 @@
+Package: com.tonyk7.0vigilate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tonyk7
+Installed-Size: 72
+Depends: mobilesubstrate, org.thebigboss.palert
+Filename: ./debs/com.tonyk7.0vigilate_0.0.1_iphoneos-arm.deb
+Size: 2244
+MD5sum: 2579249b1eec0ae4b7aa54a497d6eb2c
+Section: Tweaks
+Description: A patch to run palert on iOS 11 devices.
+Author: Tonyk7
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.0vigilate
+Name: 0vigilate
+
+Package: com.tonyk7.appascarrier
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.appascarrier_0.0.1_iphoneos-arm.deb
+Size: 2954
+MD5sum: 61d013695b42e7e7350145b6ae0bfffd
+Section: Tweaks
+Description: Set current running app as carrier. (iOS 8 - 11.1.2)
+Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.appascarrier
+Name: AppAsCarrier
+
+Package: com.tonyk7.backgroundkill
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.backgroundkill_0.0.1_iphoneos-arm.deb
+Size: 18712
+MD5sum: 894382d93f89044edb1b9178169dce32
+Section: Tweaks
+Description: Kill chosen apps from background on exit. Supports iOS 11
+Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.backgroundkill
+Name: BackgroundKill
+
+Package: com.tonyk7.doubledown
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.doubledown_0.0.1_iphoneos-arm.deb
+Size: 4738
+MD5sum: 26cc4c2d85d77f3e1286fa110e52205b
+Section: Tweaks
+Description: Add a second row to the dock. Supports iOS 7 - 11.1.2.
+Author: Tony
+Depiction: http://tonyk7.github.io/description.html?id=com.tonyk7.doubledown
+Name: DoubleDown
+
+Package: com.tonyk7.dscoparty
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.dscoparty_0.0.1_iphoneos-arm.deb
+Size: 4746
+MD5sum: 5a3e9a3051ff23c00952c80725fbe191
+Section: Tweaks
+Description: Upload to dsco from camera roll
+Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.dscoparty
+Name: DSCOParty
+
+Package: com.tonyk7.mgspoof
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.mgspoof_0.0.3_iphoneos-arm.deb
+Size: 19486
+MD5sum: 2f97b08892d9e3f5d513ec0c7478d299
+Section: Tweaks
+Description: Tool that can be used to spoof MGCopyAnswer's result. (iOS 9 - 12.1.2)
+Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.mgspoof
+Name: MGSpoof
+
+Package: com.tonyk7.percentagebegone
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.percentagebegone_0.0.1_iphoneos-arm.deb
+Size: 2618
+MD5sum: d4a69a415142cb5011ad261841a994a3
+Section: Tweaks
+Description: Hide percentage symbol in status bar. (iOS 4 - 12.X) (not a12)
+Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.percentagebegone
+Name: PercentageBeGone
+
+Package: com.tonyk7.shadowed
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.shadowed_0.0.1_iphoneos-arm.deb
+Size: 15866
+MD5sum: c6f1f58d41c7a9ebf49940b6a7254064
+Section: Tweaks
+Description: Hide selected apps in app switcher. Supports iOS 11.X
+Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.shadowed
+Name: Shadowed
+
+Package: com.tonyk7.snapkill
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.snapkill_0.0.1_iphoneos-arm.deb
+Size: 3304
+MD5sum: a4b0de7851ab72a01daad045a053e6fa
+Section: Tweaks
+Description: On exit of snapchat, kill background instance and applecamerad daemon for iOS 11
+Author: Tony
+Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.snapkill
+Name: SnapKill
+
+Package: com.tonyk7.spotifylyrics
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.spotifylyrics_0.0.1_iphoneos-arm.deb
+Size: 8558
+MD5sum: 8aa57a7f762b9167dfa022ad651717d8
+Section: Tweaks
+Description: Lyrics on spotify (iOS 9+)
+Author: Tony
+Name: SpotifyLyrics
+

@@ -1,0 +1,7 @@
+{
+    "name": "SpotifyLyrics",
+    "desc_short": "Lyrics on spotify (iOS 9+)",
+    "compatitle": "iOS 9",
+    "changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+    "open": true
+}
