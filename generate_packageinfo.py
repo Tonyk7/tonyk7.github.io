@@ -26,10 +26,14 @@ def get_all_tweaks(important_info_list_only=False):
 	return temp_tweaks
 
 def supported_version_from_desc(description):
-	version = description.split("iOS ")[1]
-	while not version[len(version)-1].isdigit(): version = version[:-1]
-	while not version[0].isdigit(): version = version[1:]
-	return version
+	if len(description.split("iOS ")) > 1:
+		version = description.split("iOS ")[1]
+		while not version[len(version)-1].isdigit(): version = version[:-1]
+		while not version[0].isdigit(): version = version[1:]
+		print(version)
+		return version
+	else:
+		return "iOS 10+"
 
 def generate_tweak_info(important_tweak_list):
 	tweak_info = {
