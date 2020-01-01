@@ -158,10 +158,10 @@ Maintainer: Tony
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.tonyk7.spotifylyrics_0.0.2_iphoneos-arm.deb
-Size: 9356
-MD5sum: 29b7f4cc477fee6296c24112c69489f5
-SHA1: 4c03ead926618bfa1b7c5b91727259d18738fa94
-SHA256: 63d3e902802f360f0cea56fdcaf6a352db3cc3d7c8b657419d6c34076641a856
+Size: 9284
+MD5sum: 5d8741edcdd21211360794453728fdd6
+SHA1: 50c538bd52a97c2120e8a744ec5cfd5a251288ea
+SHA256: 80e828ce6b2333338a0b52a704f8949488d5815d56d1d862e6570454ef08c0fa
 Section: Tweaks
 Description: Lyrics on spotify (iOS 9+)
 Author: Tony
