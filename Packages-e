@@ -152,16 +152,16 @@ Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.snapkill
 Name: SnapKill
 
 Package: com.tonyk7.spotifylyrics
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Tony
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.tonyk7.spotifylyrics_0.0.1_iphoneos-arm.deb
-Size: 8558
-MD5sum: 8aa57a7f762b9167dfa022ad651717d8
-SHA1: c354a91eda3eb6af427ec9c837cb6f71786b03f5
-SHA256: 89ed9c066550b1c328a69db77e1ed0d24f0d6e58d17e2f1b56f13ae404cdb04d
+Filename: ./debs/com.tonyk7.spotifylyrics_0.0.2_iphoneos-arm.deb
+Size: 9356
+MD5sum: 29b7f4cc477fee6296c24112c69489f5
+SHA1: 4c03ead926618bfa1b7c5b91727259d18738fa94
+SHA256: 63d3e902802f360f0cea56fdcaf6a352db3cc3d7c8b657419d6c34076641a856
 Section: Tweaks
 Description: Lyrics on spotify (iOS 9+)
 Author: Tony
