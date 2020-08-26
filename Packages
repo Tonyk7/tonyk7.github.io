@@ -74,16 +74,16 @@ Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.dscoparty
 Name: DSCOParty
 
 Package: com.tonyk7.mgspoof
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: Tony
-Installed-Size: 168
+Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.tonyk7.mgspoof_0.0.3_iphoneos-arm.deb
-Size: 19486
-MD5sum: 2f97b08892d9e3f5d513ec0c7478d299
+Filename: ./debs/com.tonyk7.mgspoof_0.0.4_iphoneos-arm.deb
+Size: 19570
+MD5sum: 7ce7bf55a7cc9b9ba353f1f217180060
 Section: Tweaks
-Description: Tool that can be used to spoof MGCopyAnswer's result. (iOS 9 - 12.1.2)
+Description: Tool that can be used to spoof MGCopyAnswer's result. (iOS 9 - 13)
 Author: Tony
 Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.mgspoof
 Name: MGSpoof
