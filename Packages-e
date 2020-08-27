@@ -83,6 +83,22 @@ Author: Tony
 Depiction: https://tonyk7.github.io/description.html?id=com.tonyk7.dscoparty
 Name: DSCOParty
 
+Package: com.tonyk7.duplify
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tony
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/com.tonyk7.duplify_0.0.1_iphoneos-arm.deb
+Size: 4204
+MD5sum: 94802d8dd84b1e64852f4a8ac504c01e
+SHA1: 9da6e3260f6d9fff80681e8fb7225d46845cf1d3
+SHA256: 9c350306030d6bcc861985b5af167c59194e13662b17a0d0fdc786d18a97e288
+Section: Tweaks
+Description: Duplicate Spotify playlists instantly
+Author: Tony
+Name: Duplify
+
 Package: com.tonyk7.mgspoof
 Version: 0.0.4
 Architecture: iphoneos-arm
